@@ -10,3 +10,6 @@ $ python3 cpanel-xss-177.py
 ```
 ## Disclaimer
 - Jangan gunakan tool ni untuk any illegal activities...saya tidak akan bertanggungjawab atas apa yg kamu lakukan dari segi undang2 dan seumpama dengannya.
+
+## Reference
+- https://nvd.nist.gov/vuln/detail/CVE-2023-29489)https://nvd.nist.gov/vuln/detail/CVE-2023-29489
