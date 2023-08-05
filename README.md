@@ -5,6 +5,7 @@
 ```
 $ git clone https://github.com/ViperM4sk/cpanel-xss-177.git
 $ cd cpanel-xss-177
+$ pip3 install -r requirements.txt
 $ python3 cpanel-xss-177.py
 ```
 ## Disclaimer
